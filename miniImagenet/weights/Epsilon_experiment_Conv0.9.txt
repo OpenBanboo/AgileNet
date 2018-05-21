@@ -1,0 +1,152 @@
+Epsilon_experiment_Conv0.9
+
+==========================================================================
+Conv Epsilon 0.9; Fully Epsilon 0.9; Learning rate: 0.01; 
+--------------------------------------------------------------------------
+Conv:
+================Dictionary Learning Experiment===================
+Loaded pretrained model.
+*************************************
+('Oringinal size is: ', 64L, 27L)
+('Dictionary size is: ', 4, 27L)
+('Coefficient size is: ', (4L, 64L))
+('Final abs error is: ', 0.7755900149571191)
+-------------------------------------
+*************************************
+('Oringinal size is: ', 96L, 576L)
+('Dictionary size is: ', 13, 576L)
+('Coefficient size is: ', (13L, 96L))
+('Final abs error is: ', 0.8099428813793627)
+-------------------------------------
+*************************************
+('Oringinal size is: ', 128L, 864L)
+('Dictionary size is: ', 19, 864L)
+('Coefficient size is: ', (19L, 128L))
+('Final abs error is: ', 0.8015052411605333)
+-------------------------------------
+*************************************
+('Oringinal size is: ', 256L, 1152L)
+('Dictionary size is: ', 30, 1152L)
+('Coefficient size is: ', (30L, 256L))
+('Final abs error is: ', 0.8068235047001376)
+-------------------------------------
+FC:
+*************************************
+('Oringinal size is: ', 6400, 64)
+('Dictionary size is: ', 12, 64)
+('Coefficient size is: ', (12L, 6400L))
+('Final abs error is: ', 0.8048304966042334)
+-------------------------------------
+Accuracy: 71%
+
+
+==========================================================================
+Conv Epsilon 0.9; Fully Epsilon 0.9; Learning rate: 0.01; 
+--------------------------------------------------------------------------
+Conv:
+================Dictionary Learning Experiment===================
+Loaded pretrained model.
+*************************************
+('Oringinal size is: ', 64L, 27L)
+('Dictionary size is: ', 4, 27L)
+('Coefficient size is: ', (4L, 64L))
+('Final abs error is: ', 0.7755900149571191)
+-------------------------------------
+*************************************
+('Oringinal size is: ', 96L, 576L)
+('Dictionary size is: ', 13, 576L)
+('Coefficient size is: ', (13L, 96L))
+('Final abs error is: ', 0.8099428813793627)
+-------------------------------------
+*************************************
+('Oringinal size is: ', 128L, 864L)
+('Dictionary size is: ', 19, 864L)
+('Coefficient size is: ', (19L, 128L))
+('Final abs error is: ', 0.8015052411605333)
+-------------------------------------
+*************************************
+('Oringinal size is: ', 256L, 1152L)
+('Dictionary size is: ', 30, 1152L)
+('Coefficient size is: ', (30L, 256L))
+('Final abs error is: ', 0.8068235047001376)
+-------------------------------------
+FC:
+*************************************
+('Oringinal size is: ', 6400, 64)
+('Dictionary size is: ', 40, 64)
+('Coefficient size is: ', (40L, 6400L))
+('Final abs error is: ', 0.35811163320151523)
+-------------------------------------
+
+FC=0.6
+94.5%
+
+
+FC=0.4
+*************************************
+('Oringinal size is: ', 6400, 64)
+('Dictionary size is: ', 53, 64)
+('Coefficient size is: ', (53L, 6400L))
+('Final abs error is: ', 0.15666532448752823)
+-------------------------------------
+
+
+C=0.2
+*************************************
+('Oringinal size is: ', 6400, 64)
+('Dictionary size is: ', 61, 64)
+('Coefficient size is: ', (61L, 6400L))
+('Final abs error is: ', 0.03706626138251477)
+-------------------------------------
+
+
+
+==========================================================================
+Conv Epsilon 0.9; Fully Epsilon 0.5; Learning rate: 0.01; 
+--------------------------------------------------------------------------
+================Dictionary Learning Experiment===================
+Loaded pretrained model.
+*************************************
+('Oringinal size is: ', 64L, 27L)
+('Dictionary size is: ', 4, 27L)
+('Coefficient size is: ', (4L, 64L))
+('Final abs error is: ', 0.7755900149571191)
+-------------------------------------
+*************************************
+('Oringinal size is: ', 96L, 576L)
+('Dictionary size is: ', 13, 576L)
+('Coefficient size is: ', (13L, 96L))
+('Final abs error is: ', 0.8099428813793627)
+-------------------------------------
+*************************************
+('Oringinal size is: ', 128L, 864L)
+('Dictionary size is: ', 19, 864L)
+('Coefficient size is: ', (19L, 128L))
+('Final abs error is: ', 0.8015052411605333)
+-------------------------------------
+*************************************
+('Oringinal size is: ', 256L, 1152L)
+('Dictionary size is: ', 30, 1152L)
+('Coefficient size is: ', (30L, 256L))
+('Final abs error is: ', 0.8068235047001376)
+-------------------------------------
+Is training dictionary:  True
+True
+False
+Is training dictionary:  True
+True
+False
+Is training dictionary:  True
+True
+False
+Is training dictionary:  True
+True
+False
+Initializing conv layers done!
+*************************************
+('Oringinal size is: ', 6400, 64)
+('Dictionary size is: ', 47, 64)
+('Coefficient size is: ', (47L, 6400L))
+('Final abs error is: ', 0.24751451431301558)
+-------------------------------------
+
