@@ -1,0 +1,1 @@
+from .omniglot import Omniglot
