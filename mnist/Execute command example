@@ -1,0 +1,1 @@
+python main_fewshot.py --ori_train=True --dic_train=True --fewshot_train=True --save_ori=True --epochs=10 --epochs_decomp=1 --save_decomp=True --epochs_fewshot 10
